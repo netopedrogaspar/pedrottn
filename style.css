@@ -1,0 +1,35 @@
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos em massa para múltiplos textos e imagens */
+
+/* Títulos */
+.title {
+    font-size: 2rem;
+    color: #2c3e50;
+    text-align: center;
+}
+
+/* Parágrafos */
+.paragraph {
+    font-size: 1.2rem;
+    color: #34495e;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+
+/* Imagens */
+.image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 2rem;
+}
+
